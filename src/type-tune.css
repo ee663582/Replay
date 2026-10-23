@@ -1,0 +1,4 @@
+.hero-copy h1{font-size:clamp(56px,7vw,96px)}
+@media(max-width:760px){.hero-copy h1{font-size:clamp(55px,8vw,76px)}}
+@media(max-width:560px){.hero-copy h1{font-size:clamp(42px,12vw,57px)}.route-column{height:26px;background:repeating-linear-gradient(90deg,#b8b6aa 0 2px,transparent 2px 7px)}.route-column svg{display:none}}
+.boundary-safe .held-text{filter:blur(4px);user-select:none;transition:filter .25s}.boundary-open .held-text{filter:none}

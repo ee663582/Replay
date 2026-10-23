@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#D9D5C9" stroke-width=".65" opacity=".58"/>
+    </pattern>
+    <filter id="paper-shadow" x="0" y="0" width="1.2" height="1.2" color-interpolation-filters="sRGB">
+      <feDropShadow dx="8" dy="10" stdDeviation="0" flood-color="#C8C3B7"/>
+    </filter>
+    <marker id="arrow" markerWidth="7" markerHeight="7" refX="5" refY="3.5" orient="auto">
+      <path d="M0 0L6 3.5L0 7" stroke="#C55034" stroke-width="1.2"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="630" fill="#F2EFE6"/>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  <path d="M54 56H1146M54 574H1146" stroke="#BDB9AE"/>
+  <text x="62" y="43" fill="#667168" font-family="'DM Mono',monospace" font-size="11" letter-spacing="2">RELAY / CONTEXT THAT TRAVELS WELL</text>
+  <text x="1138" y="43" text-anchor="end" fill="#667168" font-family="'DM Mono',monospace" font-size="10" letter-spacing="1.4">A HUMAN-REVIEWED HANDOFF</text>
+
+  <text x="64" y="194" fill="#202724" font-family="'Manrope',sans-serif" font-size="65" font-weight="500" letter-spacing="-4">Keep the</text>
+  <text x="64" y="266" fill="#202724" font-family="'Manrope',sans-serif" font-size="65" font-weight="500" letter-spacing="-4">context.</text>
+  <text x="64" y="338" fill="#C55034" font-family="'Manrope',sans-serif" font-size="65" font-weight="500" letter-spacing="-4">Leave the</text>
+  <text x="64" y="410" fill="#C55034" font-family="'Manrope',sans-serif" font-size="65" font-weight="500" letter-spacing="-4">thread behind.</text>
+  <text x="68" y="464" fill="#667168" font-family="'DM Sans',sans-serif" font-size="16">A concise, reviewed capsule for what happens next.</text>
+  <path d="M68 504H263" stroke="#C55034" stroke-width="2"/>
+  <circle cx="68" cy="504" r="4" fill="#C55034"/>
+  <text x="68" y="546" fill="#777E75" font-family="'DM Mono',monospace" font-size="10" letter-spacing="1.4">DECISIONS · BOUNDARIES · NEXT STEPS</text>
+
+  <g transform="translate(590 105)">
+    <text x="0" y="-17" fill="#737A72" font-family="'DM Mono',monospace" font-size="9" letter-spacing="1.4">01 / THREAD</text>
+    <path d="M0 0H270V314H0z" fill="#F8F6EF" stroke="#BDB9AE"/>
+    <path d="M0 40H270" stroke="#D5D1C6"/>
+    <circle cx="20" cy="21" r="3" fill="#C55034"/>
+    <text x="31" y="24" fill="#788078" font-family="'DM Mono',monospace" font-size="8" letter-spacing="1">REPAIR CAFÉ / PLANNING</text>
+    <g font-family="'DM Sans',sans-serif" font-size="10">
+      <circle cx="22" cy="72" r="5" fill="#D7DCCF"/><path d="M38 66H232M38 74H206M38 82H221" stroke="#818980" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="22" cy="119" r="5" fill="#E4D5C7"/><path d="M38 113H240M38 121H215M38 129H228" stroke="#818980" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="22" cy="166" r="5" fill="#D7DCCF"/><path d="M38 160H215M38 168H237M38 176H192" stroke="#818980" stroke-width="2" stroke-linecap="round"/>
+      <rect x="13" y="199" width="244" height="58" fill="#EEEAE0" stroke="#D5D1C6"/>
+      <rect x="22" y="210" width="3" height="36" fill="#C55034"/>
+      <text x="35" y="220" fill="#737A72" font-family="'DM Mono',monospace" font-size="8" letter-spacing=".7">PRIVATE · HELD BACK</text>
+      <path d="M35 231H221M35 239H183" stroke="#A6A79D" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="22" cy="283" r="5" fill="#E4D5C7"/><path d="M38 277H224M38 285H213M38 293H239" stroke="#818980" stroke-width="2" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <path d="M878 259C920 259 916 205 956 205" stroke="#C55034" stroke-width="1.4" stroke-dasharray="4 5" marker-end="url(#arrow)"/>
+  <path d="M878 357C920 357 916 404 956 404" stroke="#718176" stroke-width="1.4" stroke-dasharray="4 5"/>
+  <text x="920" y="246" text-anchor="middle" fill="#A6402D" font-family="'DM Mono',monospace" font-size="8" letter-spacing=".8">SELECT</text>
+  <text x="920" y="388" text-anchor="middle" fill="#667168" font-family="'DM Mono',monospace" font-size="8" letter-spacing=".8">EXCLUDE</text>
+
+  <g transform="translate(956 145)" filter="url(#paper-shadow)">
+    <text x="0" y="-17" fill="#737A72" font-family="'DM Mono',monospace" font-size="9" letter-spacing="1.4">02 / CAPSULE</text>
+    <path d="M0 0H183V333H0z" fill="#FBF9F2" stroke="#202724" stroke-width="1.2"/>
+    <path d="M15 38H168" stroke="#D5D1C6"/>
+    <text x="15" y="24" fill="#667168" font-family="'DM Mono',monospace" font-size="8" letter-spacing="1">RELAY · SHARED COPY</text>
+    <text x="15" y="78" fill="#202724" font-family="'Manrope',sans-serif" font-size="25" letter-spacing="-1.2">Keep work</text>
+    <text x="15" y="106" fill="#202724" font-family="'Manrope',sans-serif" font-size="25" letter-spacing="-1.2">moving.</text>
+    <path d="M15 124H168" stroke="#D5D1C6"/>
+    <g font-family="'DM Mono',monospace" font-size="8">
+      <text x="15" y="151" fill="#C55034" letter-spacing=".7">DECISION</text><text x="15" y="166" fill="#48534B">Keep the Saturday slot</text>
+      <path d="M15 179H168" stroke="#E1DED3"/>
+      <text x="15" y="202" fill="#C55034" letter-spacing=".7">CONSTRAINT</text><text x="15" y="217" fill="#48534B">No power tools</text>
+      <path d="M15 230H168" stroke="#E1DED3"/>
+      <text x="15" y="253" fill="#C55034" letter-spacing=".7">NEXT ACTION</text><text x="15" y="268" fill="#48534B">Mina brings the repair kit</text>
+    </g>
+    <path d="M15 292H168" stroke="#D5D1C6"/>
+    <circle cx="20" cy="313" r="3" fill="#718176"/>
+    <text x="29" y="316" fill="#667168" font-family="'DM Mono',monospace" font-size="7" letter-spacing=".5">REVIEWED BEFORE SHARING</text>
+  </g>
+
+  <text x="62" y="603" fill="#7B8178" font-family="'DM Mono',monospace" font-size="9" letter-spacing="1">PROTOTYPE EXPERIENCE · LOCAL DEMO</text>
+  <text x="1138" y="603" text-anchor="end" fill="#7B8178" font-family="'DM Mono',monospace" font-size="9" letter-spacing="1">01 — 01</text>
+</svg>
